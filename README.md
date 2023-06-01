@@ -1,2 +1,13 @@
 
-どしたん？話聞こか？ あーそれはRailsが悪いわ Goならそんな思いさせへんのに笑
+Hello 👋. Here's a list of my favorite projects.
+### linter
+* [logfind](https://github.com/seipan/logfind) : linter to find log.Println(), etc.
+* [logdel](https://github.com/seipan/logdel) : Static analysis tool to remove log.Println(), etc. in bulk
+* [ctxchecker](https://github.com/seipan/ctxchecker) : linter to check if context is in the argument
+
+
+### logger
+* [logdis](https://github.com/seipan/logdis) : logger to notify logs directly to discord using webhook
+
+### WebService
+* [glyph](https://github.com/Doer-org/glyph) : A web-service that allows you to save documents in markdown format 
