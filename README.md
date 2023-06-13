@@ -11,3 +11,6 @@ Hello 👋. Here's a list of my favorite projects.
 
 ### WebService
 * [glyph](https://github.com/Doer-org/glyph) : A web-service that allows you to save documents in markdown format 
+
+### Data stuctures
+* [btree](https://github.com/seipan/btree) : cli tool to compare b-tree implementations and their speed 
