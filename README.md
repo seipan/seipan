@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>Total visitors</td>
-    <td><img src="https://profile-counter.glitch.me/kazuki-komori/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/seipan/count.svg" alt="" /></td>
   </tr>
 </table>
 
