@@ -1,3 +1,9 @@
+<table>
+  <tr>
+    <td>Total visitors</td>
+    <td><img src="https://profile-counter.glitch.me/kazuki-komori/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 Hello 👋. Here's a list of my favorite projects.
 ### linter
