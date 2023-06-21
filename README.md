@@ -1,10 +1,3 @@
-<table>
-  <tr>
-    <td>Total visitors</td>
-    <td><img src="https://profile-counter.glitch.me/seipan/count.svg" alt="" /></td>
-  </tr>
-</table>
-
 Hello 👋. Here's a list of my favorite projects.
 ### linter
 * [logfind](https://github.com/seipan/logfind) : linter to find log.Println(), etc.
