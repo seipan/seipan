@@ -9,7 +9,7 @@ Hello 👋. Here's a list of my favorite projects.
 * [logdis](https://github.com/seipan/logdis) : logger to notify logs directly to discord using webhook
 * [loghook](https://github.com/seipan/loghook) : logger to notify logs to slack,discord using webhook
 
-### WebService
+### Web
 * [glyph](https://github.com/Doer-org/glyph) : A web-service that allows you to save documents in markdown format
 * [mylb](https://github.com/seipan/mylb) : Implementing a Load Balancer in Golang(just a toy) 
 
