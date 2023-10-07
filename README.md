@@ -6,7 +6,7 @@ Hello 👋. Here's a list of my favorite projects.
 
 
 ### logger
-* [logdis](https://github.com/seipan/logdis) : logger to notify logs directly to discord using webhook
+* [logdis](https://github.com/seipan/logdis) : logger to notify logs directly to discord using webhook (archive)
 * [loghook](https://github.com/seipan/loghook) : logger to notify logs to slack,discord using webhook
 
 ### Web
