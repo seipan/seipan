@@ -18,3 +18,4 @@ Hello 👋. Here's a list of my favorite projects.
 
 ### CLI
 * [bulma](https://github.com/seipan/bulma) : 👊 CLI tool to parse OpenAPI and stress test each endpoint. 👊 
+* [csql](https://github.com/seipan/csql) : CLI tool to insert CSV data into a specified database. 
