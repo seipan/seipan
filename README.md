@@ -20,5 +20,3 @@ Hello 👋. Here's a list of my favorite projects.
 * [bulma](https://github.com/seipan/bulma) : 👊 CLI tool to parse OpenAPI and stress test each endpoint. 👊 
 * [csql](https://github.com/seipan/csql) : CLI tool to insert CSV data into a specified database. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seipan&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/seipan/github-readme-stats)
-
