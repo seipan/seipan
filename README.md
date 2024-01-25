@@ -7,7 +7,7 @@
 ## About Me
 B3. Love Go. Backend.
 
-![my oss project](https://github.com/seipan/seipan/blob/main/oss.md)
+[my oss project](https://github.com/seipan/seipan/blob/main/oss.md)
 
 ## Stats
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seipan&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e2137&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=ture" alt="seipan" href="https://github.com/seipan" /></div>
